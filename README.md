@@ -6,3 +6,4 @@ modif dans nano
 git add pour versionner
 git commit -m
 git push --set-upstream origin master
+<p>Re paragraphe, je sais pas où est le premier, Ungit et moi apparemment ça veut pas </p>
